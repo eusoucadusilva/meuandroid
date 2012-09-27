@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Meu Android</string>
+    <string name="hello_world">Fala Victor Eiras!</string>
+    <string name="surpreenda_me">Supreenda-me</string>
+    <string name="saudacao">Olá</string>
+    <string name="titulo">Informe seu nome</string>
+    
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Meu Adroid</string>
+
+</resources>
